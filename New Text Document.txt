@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>متجر التابلوهات</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>متجر التابلوهات</h1>
+        <nav>
+            <ul>
+                <li><a href="#">الرئيسية</a></li>
+                <li><a href="#">تابلوهات</a></li>
+                <li><a href="#">منتجات الطباعة</a></li>
+                <li><a href="#">تواصل معنا</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="main-banner">
+        <h2>أجمل التابلوهات الخشبية لأجمل لحظات حياتك</h2>
+        <a href="#" class="btn">تصفح الآن</a>
+    </section>
+
+    <section class="products">
+        <h3>منتجات مميزة</h3>
+        <div class="product-item">
+            <img src="product1.jpg" alt="تابلوه خشب">
+            <h4>تابلوه خشب</h4>
+            <p>سعر: 100 جنيه</p>
+            <button>إضافة إلى السلة</button>
+        </div>
+        <div class="product-item">
+            <img src="product2.jpg" alt="تابلوه خشب">
+            <h4>تابلوه خشب</h4>
+            <p>سعر: 150 جنيه</p>
+            <button>إضافة إلى السلة</button>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2024 متجر التابلوهات. جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
